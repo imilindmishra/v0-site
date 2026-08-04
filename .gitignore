@@ -8,6 +8,8 @@ instrumentation-client.ts
 # Common ignores
 node_modules/
 .next/
+.open-next/
+.wrangler/
 .env*.local
 .DS_Store
 .vercel
